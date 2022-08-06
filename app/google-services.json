@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "235203249840",
+    "firebase_url": "https://pickup-alarm-default-rtdb.firebaseio.com",
+    "project_id": "pickup-alarm",
+    "storage_bucket": "pickup-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235203249840:android:8075cecb3d04467e111d75",
+        "android_client_info": {
+          "package_name": "com.miniproject.pickupalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235203249840-afp11m58j046kgh4sqtl1ulaums4ef62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRaAuFDtVcqKCKvZcSWGgSjlUwMP1auMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235203249840-afp11m58j046kgh4sqtl1ulaums4ef62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pickup Alarm</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYWFzaGlrMDgwOCIsImEiOiJjbDNsc25pMWkwaXFtM2RwMzF4MHo4OHA4In0.lrVNGWWvXZ8y2L1DTXESwA</string>
+    <string name="fcm_key">key=AAAANsM0xrA:APA91bEIe03y-tH_iAO_Dr6IspUsd5J9TqOCKDgVY7WqmgjjyocPM1nqm24lCd2grVUQYmQbhO0SC-9fE353zdZCiaoZ6gyjNK_Hcot0yVLdtz-cGZE3KSdUEuJHyrBnq-YPASj8yf5Q</string>
+</resources>
